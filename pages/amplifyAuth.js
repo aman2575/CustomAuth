@@ -1,4 +1,4 @@
-import { withAuthenticator} from '@aws-amplify/ui-react-v1'
+import { withAuthenticator} from '@aws-amplify/ui-react'
 import { Auth } from 'aws-amplify'
 import { useEffect, useState } from 'react'
 import '../configureAmplify'
