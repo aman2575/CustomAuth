@@ -98,8 +98,8 @@ CODEGEN="{\
 AUTHCONFIG="{\
 \"facebookAppId\":\"${FACEBOOK_CLIENT_ID}\",\
 \"facebookAppSecret\":\"${FACEBOOK_CLIENT_SECRET}\",\
-\"googleAppId\":\"${GOOGLE_CLIENT_ID}\",\
-\"googleAppSecret\":\"${GOOGLE_CLIENT_SECRET}\"\
+\"googleAppId\":\"${1088232235513-7fl9efjknu5m25l4r7r26qkq2nea4upe.apps.googleusercontent.com}\",\
+\"googleAppSecret\":\"${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}\"\
 }"
 
 CATEGORIES="{\
